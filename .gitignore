@@ -1,0 +1,6 @@
+node_modules
+.env
+yarn.lock
+nginx-default
+/metadata
+package-lock.json
